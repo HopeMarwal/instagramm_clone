@@ -10,10 +10,10 @@ export default function ProfileIcon(props) {
 
   return (
     <div className={storyBorder ? 'storyBorder' : ''}>
-      <img 
-        className={`profileIcon ${iconSize}`} 
+      <img
+        className={`profileIcon ${iconSize}`}
         src={profileImg}
-        alt="profile" 
+        alt="profile"
       />
     </div>
   )

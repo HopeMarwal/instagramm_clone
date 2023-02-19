@@ -18,17 +18,17 @@ export default function Profile(props) {
     image
   } = props
 
-  let accountName = username 
-    ? username 
+  let accountName = username
+    ? username
     : users[Math.floor(Math.random() * users.length)].username;
 
 
   return (
     <div className='profile'>
-      <ProfileIcon 
-        iconSize={iconSize} 
-        storyBorder={storyBorder} 
-        image={image} 
+      <ProfileIcon
+        iconSize={iconSize}
+        storyBorder={storyBorder}
+        image={image}
       />
       {(accountName || caption) && !hideAccountName && (
         <div className='textContainer'>

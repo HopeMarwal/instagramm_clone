@@ -13,28 +13,27 @@ export default function Suggestions() {
         <a href="/">See all</a>
       </div>
 
-      <Profile 
+      <Profile
         caption="Followed by mapvault + 3 more"
         urlText="Follow"
         iconSize="medium"
         captionSize="small"
         storyBorder={true}
       />
-      <Profile 
+      <Profile
         caption="Followed by mapvault + 1 more"
         urlText="Follow"
         iconSize="medium"
         captionSize="small"
         storyBorder={true}
       />
-      <Profile 
+      <Profile
         caption="Follows you"
         urlText="Follow"
         iconSize="medium"
         captionSize="small"
         storyBorder={true}
       />
-      
 
     </div>
   )

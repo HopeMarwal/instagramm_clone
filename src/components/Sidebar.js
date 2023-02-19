@@ -14,11 +14,11 @@ export default function Sidebar() {
   return (
       <Sticky topOffset={-80} scrollElement='window'>
         <div className='sidebar'>
-          <Profile 
-            username="name.lname" 
-            caption="Name Lastname" 
-            urlText="Switch" 
-            iconSize="big" 
+          <Profile
+            username="name.lname"
+            caption="Name Lastname"
+            urlText="Switch"
+            iconSize="big"
             image={image}
           />
           <Suggestions />

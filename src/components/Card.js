@@ -41,7 +41,7 @@ export default function Card(props) {
       <div className='comments'>
         {comments.map((comment) => {
           return (
-            <Comment 
+            <Comment
               key={comment.id}
               accountName={comment.user}
               comment={comment.text}
