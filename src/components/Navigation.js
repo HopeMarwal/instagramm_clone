@@ -1,9 +1,9 @@
 import React from 'react';
 //import styles
-import '../assets/scss/instagram/navigation.scss'
+import '../assets/scss/navigation.scss'
 //import img
-import logo from '../assets/img/instagram/instagramLogo.png'
-import searchIcon from '../assets/img/instagram/searchIcon.png'
+import logo from '../assets/img/instagramLogo.png'
+import searchIcon from '../assets/img/searchIcon.png'
 //import components
 import Menu from './Menu';
 

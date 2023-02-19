@@ -1,6 +1,6 @@
 import React from 'react'
 //import styles
-import '../assets/scss/instagram/profileIcon.scss'
+import '../assets/scss/profileIcon.scss'
 
 export default function ProfileIcon(props) {
   const { iconSize, storyBorder, image } = props

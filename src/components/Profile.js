@@ -1,6 +1,6 @@
 import React from 'react'
 //import styles
-import '../assets/scss/instagram/profile.scss'
+import '../assets/scss/profile.scss'
 //import components
 import ProfileIcon from './ProfileIcon';
 //import data

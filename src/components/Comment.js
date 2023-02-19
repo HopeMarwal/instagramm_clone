@@ -1,6 +1,6 @@
 import React from 'react'
 //import style
-import '../assets/scss/instagram/comment.scss'
+import '../assets/scss/comment.scss'
 
 export default function Comment(props) {
   const {accountName, comment} = props

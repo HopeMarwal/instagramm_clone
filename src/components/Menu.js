@@ -1,11 +1,11 @@
 import React from 'react'
 //import styles
-import '../assets/scss/instagram/menu.scss'
+import '../assets/scss/menu.scss'
 //import icons
-import { ReactComponent as Home } from '../assets/img/instagram/home.svg'
-import { ReactComponent as Inbox } from '../assets/img/instagram/inbox.svg'
-import { ReactComponent as Explore } from '../assets/img/instagram/explore.svg'
-import { ReactComponent as Notifications } from '../assets/img/instagram/notifications.svg'
+import { ReactComponent as Home } from '../assets/img/home.svg'
+import { ReactComponent as Inbox } from '../assets/img/inbox.svg'
+import { ReactComponent as Explore } from '../assets/img/explore.svg'
+import { ReactComponent as Notifications } from '../assets/img/notifications.svg'
 //import img
 import Image from '../assets/img/clear_n.jpeg'
 //import components

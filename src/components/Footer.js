@@ -1,6 +1,6 @@
 import React from 'react'
 //import styles
-import '../assets/scss/instagram/footer.scss'
+import '../assets/scss/footer.scss'
 
 
 export default function Footer() {

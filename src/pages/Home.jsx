@@ -1,10 +1,10 @@
 import React from 'react'
 //import style
-import '../assets/scss/instagram/instagram.scss'
+import '../assets/scss/instagram.scss'
 //import components
-import Navigation from '../components/instagram/Navigation'
-import Cards from '../components/instagram/Cards'
-import Sidebar from '../components/instagram/Sidebar'
+import Navigation from '../components/Navigation'
+import Cards from '../components/Cards'
+import Sidebar from '../components/Sidebar'
 
 export default function InstagramClone() {
   return (

@@ -1,7 +1,7 @@
 import React from 'react'
 import HorizontalScroll from 'react-scroll-horizontal'
 //import style
-import '../assets/scss/instagram/stories.scss'
+import '../assets/scss/stories.scss'
 //import components
 import Story from './Story'
 

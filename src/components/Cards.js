@@ -1,6 +1,6 @@
 import React from 'react'
 //import style
-import '../assets/scss/instagram/cards.scss'
+import '../assets/scss/cards.scss'
 //import data
 import cards from '../data/comments'
 //import components

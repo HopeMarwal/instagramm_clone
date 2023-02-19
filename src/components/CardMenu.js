@@ -1,11 +1,11 @@
 import React from 'react'
 //import style
-import '../assets/scss/instagram/cardMenu.scss'
+import '../assets/scss/cardMenu.scss'
 //import svg img
-import { ReactComponent as Inbox } from "../assets/img/instagram/inbox.svg";
-import { ReactComponent as Comments } from "../assets/img/instagram/comments.svg";
-import { ReactComponent as Notifications } from "../assets/img/instagram/notifications.svg";
-import { ReactComponent as Bookmark } from "../assets/img/instagram/bookmark.svg";
+import { ReactComponent as Inbox } from "../assets/img/inbox.svg";
+import { ReactComponent as Comments } from "../assets/img/comments.svg";
+import { ReactComponent as Notifications } from "../assets/img/notifications.svg";
+import { ReactComponent as Bookmark } from "../assets/img/bookmark.svg";
 
 
 export default function CardMenu() {

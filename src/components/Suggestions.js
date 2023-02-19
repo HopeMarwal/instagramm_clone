@@ -1,6 +1,6 @@
 import React from 'react'
 //import styles
-import '../assets/scss/instagram/suggestions.scss'
+import '../assets/scss/suggestions.scss'
 //import components
 import Profile from './Profile'
 

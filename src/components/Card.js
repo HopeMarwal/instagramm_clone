@@ -1,12 +1,12 @@
 import React from 'react'
 //import style
-import '../assets/scss/instagram/card.scss'
+import '../assets/scss/card.scss'
 //import components
 import Profile from './Profile'
 import Comment from './Comment'
 import CardMenu from './CardMenu'
 //import img
-import {ReactComponent as CardButton} from '../../img/instagram/cardButton.svg'
+import {ReactComponent as CardButton} from '../assets/img/cardButton.svg'
 
 export default function Card(props) {
   const {
