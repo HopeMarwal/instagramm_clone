@@ -1,0 +1,21 @@
+@import './var';
+.cardMenu {
+  display: flex;
+  justify-content: space-between;
+  margin: 1em 0;
+
+  .interactions {
+    padding-left: 1em;
+    display: flex;
+  }
+
+  .icon {
+    margin-right: 1em;
+    width: 23px;
+    height: 23px;
+
+    &:hover {
+      cursor: pointer;
+    }
+  }
+}
