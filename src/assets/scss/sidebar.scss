@@ -1,8 +1,13 @@
 @import './var';
 
+.sidebar_wrap {
+  position: relative;
+}
 .sidebar {
+  position: sticky;
   width: 320px;
   padding: 7.5em 2em 0 2em;
+
 }
 @media only screen and (max-width: 1024px) {
   .sidebar {
