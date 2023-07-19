@@ -1,0 +1,60 @@
+{
+    "main": {
+            "categories": [
+                {
+                    "id": 1,
+                    "title": "Casco"
+                },
+                {
+                    "id": 2,
+                    "title": "RCA"
+                },
+                {
+                    "id": 3,
+                    "title": "Carte verde"
+                },
+                {
+                    "id": 4,
+                    "title": "Medicală"
+                },
+                {
+                    "id": 5,
+                    "title": "Accidente"
+                },
+                {
+                    "id": 6,
+                    "title": "Bunuri"
+                },
+                {
+                    "id": 7,
+                    "title": "Locuințe (imobile)"
+                }
+            ],
+            "casco": {
+                "object": [ 
+                    "Autovehicule înmatriculate în Republica Moldova, care aparţin persoanelor fizice şi juridice.",
+                    "Echipamentul suplimentar, care nu intră în dotarea autovehiculului conform listei de dotări ale uzinei producătoare.",
+                    "Conducătorul auto şi pasagerii, pentru cazuri de accidente care pot avea loc în timpul accidentelor rutiere."
+                ],
+                "riscs": [
+                    {
+                        "title": "- \"DAUNE\" - prejudiciile materiale cauzate Asiguratului prin deteriorarea sau distrugerea autovehiculului şi a echipamentului suplimentar ca urmare a:",
+                        "list": [
+                            "tamponării, lovirii sau ciocnirii cu un alt autovehicul, obiect; trecerii peste orice fel de obiecte statice sau în mişcare; căderii; căderii pe autovehicul a unor obiecte străine; derapării; răsturnării; alunecării;",
+                            "incendiului, descărcării electrice, exploziei, ploii torenţiale, grindinei, inundaţiei, uraganului, cutremurului de pămînt, surpărilor, alunecărilor de teren, căderilor abundente de zăpadă, avalanşelor, inclusiv acţiunea directă sau indirectă a acestora;"
+                        ]
+                    },
+                    {
+                        "title": "„FURT” – furtul, jaful, tîlhăria, răpirea autovehicului, a părţilor componente sau pieselor acestuia;",
+                        "list": ["orice daune cauzate ca urmare a furtului, jafului, tîlhăriei, răpirei sau tentativei de furt, jaf, tîlharie, răpire a autovehicului, a părţilor lui componente şi a pieselor, echipamentului primit în asigurare, precum şi a echipamentului suplimentar şi accesoriilor dacă acestea sunt asigurate conform contractului de asigurare."]
+                    },
+                    {
+                        "title": "„ACCIDENT” – cauzarea leziunilor corporale sau decesul conducătorului auto/pasagerilor ca rezultat al unui accident rutier."
+                    },
+                    {
+                        "title": " \"AUTOCASCO\" - pachetul complet de riscuri, compus din grupurile de risc \"DAUNĂ\" şi \"FURT\", care poate include suplimentar riscul \"ACCIDENT\""
+                    }
+                ]
+            }
+        }
+}
