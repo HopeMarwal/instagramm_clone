@@ -30,6 +30,21 @@
                     "title": "Locuințe (imobile)"
                 }
             ],
+            "icons": {
+                "lang": {
+                    "src": "https://res.cloudinary.com/djr5mw1np/image/upload/v1689866843/next_preset/icons/lang_pwxjce.svg"
+                },
+                "phone": {
+                    "src": "https://res.cloudinary.com/djr5mw1np/image/upload/v1689866843/next_preset/icons/phone_aoawfo.svg"
+                },
+                "messenger": {
+                    "src": "https://res.cloudinary.com/djr5mw1np/image/upload/v1689866843/next_preset/icons/messenger_oyxwce.svg"
+                },
+                "whatsapp": {
+                    "src": "https://res.cloudinary.com/djr5mw1np/image/upload/v1689866843/next_preset/icons/whatsapp_ezfvgk.svg"
+                }
+
+            },
             "casco": {
                 "object": [ 
                     "Autovehicule înmatriculate în Republica Moldova, care aparţin persoanelor fizice şi juridice.",
