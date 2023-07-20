@@ -32,15 +32,19 @@
             ],
             "icons": {
                 "lang": {
+                    "title": "Ru",
                     "src": "https://res.cloudinary.com/djr5mw1np/image/upload/v1689866843/next_preset/icons/lang_pwxjce.svg"
                 },
                 "phone": {
+                    "title": "Suna",
                     "src": "https://res.cloudinary.com/djr5mw1np/image/upload/v1689866843/next_preset/icons/phone_aoawfo.svg"
                 },
                 "messenger": {
+                    "title": "Messanger",
                     "src": "https://res.cloudinary.com/djr5mw1np/image/upload/v1689866843/next_preset/icons/messenger_oyxwce.svg"
                 },
                 "whatsapp": {
+                    "title": "whatsapp",
                     "src": "https://res.cloudinary.com/djr5mw1np/image/upload/v1689866843/next_preset/icons/whatsapp_ezfvgk.svg"
                 }
 
